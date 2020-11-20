@@ -6,8 +6,8 @@ A life long learner, I enjoy challenging tasks that push the limits of my knowle
 
 Skills: NODE / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on setting up projects for [Hacktoberfest](https://hacktoberfest.digitalocean.com/). 
-- 🌱 I’m currently learning Java 
+- 🔭 I’m currently working on a simple CLI wrapper in my spare time. 
+- 🌱 I’m currently learning Scrum 
 - 🤔 I’m looking for help with finishing up a couple projects. 
 - 💬 Ask me about [Free](https://www.fsf.org) & [Open Source](https://www.opensource.org) software 
 - 😄 Pronouns: He/Him 
